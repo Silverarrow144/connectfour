@@ -1,0 +1,470 @@
+# depslib dependency file v1.0
+1556985992 source:d:\prog\harmadik_beadando\main.cpp
+	"graphics.hpp"
+	"widgets.hpp"
+	"textbox.hpp"
+	"numberBox.hpp"
+	"selectBox.hpp"
+	"textWindow.hpp"
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+
+1488256928 d:\prog\harmadik_beadando\include\graphics.hpp
+	<string>
+
+1555511313 d:\prog\harmadik_beadando\include\widgets.hpp
+	"graphics.hpp"
+
+1555511313 d:\prog\harmadik_beadando\include\textbox.hpp
+	<string>
+	"graphics.hpp"
+	"widgets.hpp"
+
+1555511313 d:\prog\harmadik_beadando\include\numberbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1555511313 d:\prog\harmadik_beadando\include\selectbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+
+1556987090 d:\prog\harmadik_beadando\include\textwindow.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+	<string>
+	<iostream>
+
+1555511313 source:d:\prog\harmadik_beadando\src\numberbox.cpp
+	"numberBox.hpp"
+	<string>
+
+1555511509 source:d:\prog\harmadik_beadando\src\selectbox.cpp
+	"selectBox.hpp"
+	"graphics.hpp"
+	<vector>
+	<iostream>
+
+1555511509 source:d:\prog\harmadik_beadando\src\textbox.cpp
+	"textbox.hpp"
+	"graphics.hpp"
+	<string>
+
+1556987202 source:d:\prog\harmadik_beadando\src\textwindow.cpp
+	"textWindow.hpp"
+	"graphics.hpp"
+	<iostream>
+	<fstream>
+
+1555504548 source:d:\prog\harmadik_beadando\src\widgets.cpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1557674225 source:d:\prog\_3 harmadik_beadando\main.cpp
+	"graphics.hpp"
+	"parentWindow.hpp"
+	"firstWindow.hpp"
+
+1488256928 d:\prog\_3 harmadik_beadando\include\graphics.hpp
+	<string>
+
+1555511313 d:\prog\_3 harmadik_beadando\include\widgets.hpp
+	"graphics.hpp"
+
+1555511313 d:\prog\_3 harmadik_beadando\include\textbox.hpp
+	<string>
+	"graphics.hpp"
+	"widgets.hpp"
+
+1555511313 d:\prog\_3 harmadik_beadando\include\numberbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1555511313 d:\prog\_3 harmadik_beadando\include\selectbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+
+1557674504 d:\prog\_3 harmadik_beadando\include\textwindow.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+	<string>
+	<iostream>
+
+1555511313 source:d:\prog\_3 harmadik_beadando\src\numberbox.cpp
+	"numberBox.hpp"
+	<string>
+
+1555511509 source:d:\prog\_3 harmadik_beadando\src\selectbox.cpp
+	"selectBox.hpp"
+	"graphics.hpp"
+	<vector>
+	<iostream>
+
+1555511509 source:d:\prog\_3 harmadik_beadando\src\textbox.cpp
+	"textbox.hpp"
+	"graphics.hpp"
+	<string>
+
+1557674719 source:d:\prog\_3 harmadik_beadando\src\textwindow.cpp
+	"textWindow.hpp"
+	"graphics.hpp"
+	<iostream>
+	<fstream>
+
+1555504548 source:d:\prog\_3 harmadik_beadando\src\widgets.cpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1557063175 source:d:\prog\_3 harmadik_beadando\src\gamemaster.cpp
+	"gameMaster.hpp"
+
+1557063175 d:\prog\_3 harmadik_beadando\include\gamemaster.hpp
+
+1557674027 source:d:\prog\_3 harmadik_beadando\src\parentwindow.cpp
+	"parentWindow.hpp"
+	<fstream>
+
+1557674193 d:\prog\_3 harmadik_beadando\include\parentwindow.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+
+1557674150 source:d:\prog\_3 harmadik_beadando\src\firstwindow.cpp
+	"firstWindow.hpp"
+	"graphics.hpp"
+	"widgets.hpp"
+	"textbox.hpp"
+	"numberBox.hpp"
+	"selectBox.hpp"
+	"textWindow.hpp"
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+
+1557673894 d:\prog\_3 harmadik_beadando\include\firstwindow.hpp
+	"parentWindow.hpp"
+
+1557674879 source:c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\main.cpp
+	"graphics.hpp"
+	"parentWindow.hpp"
+	"firstWindow.hpp"
+
+1488256928 c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\include\graphics.hpp
+	<string>
+
+1557674193 c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\include\parentwindow.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+
+1555511313 c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\include\widgets.hpp
+	"graphics.hpp"
+
+1558085441 c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\include\firstwindow.hpp
+	"parentWindow.hpp"
+	"numberBox.hpp"
+	"selectBox.hpp"
+	"textWindow.hpp"
+	"widgets.hpp"
+
+1558085344 source:c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\src\firstwindow.cpp
+	"firstWindow.hpp"
+	"graphics.hpp"
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+
+1555511313 c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\include\textbox.hpp
+	<string>
+	"graphics.hpp"
+	"widgets.hpp"
+
+1555511313 c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\include\numberbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1555511313 c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\include\selectbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+
+1557674504 c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\include\textwindow.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+	<string>
+	<iostream>
+
+1557063175 source:c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\src\gamemaster.cpp
+	"gameMaster.hpp"
+
+1557063175 c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\include\gamemaster.hpp
+
+1555511313 source:c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\src\numberbox.cpp
+	"numberBox.hpp"
+	<string>
+
+1557674027 source:c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\src\parentwindow.cpp
+	"parentWindow.hpp"
+	<fstream>
+
+1555511509 source:c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\src\selectbox.cpp
+	"selectBox.hpp"
+	"graphics.hpp"
+	<vector>
+	<iostream>
+
+1555511509 source:c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\src\textbox.cpp
+	"textbox.hpp"
+	"graphics.hpp"
+	<string>
+
+1557674719 source:c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\src\textwindow.cpp
+	"textWindow.hpp"
+	"graphics.hpp"
+	<iostream>
+	<fstream>
+
+1555504548 source:c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\src\widgets.cpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1557476178 source:c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\src\button.cpp
+	"button.hpp"
+	"graphics.hpp"
+
+1558080716 c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\include\button.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1558084477 source:c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\src\messagebutton.cpp
+	"messageButton.hpp"
+	"graphics.hpp"
+
+1558084194 c:\users\szeem4\downloads\prog (1)\_3 harmadik_beadando\include\messagebutton.hpp
+	"button.hpp"
+	"firstWindow.hpp"
+	<functional>
+
+1557671279 source:e:\prog\progbentrol\_3 harmadik_beadando\main.cpp
+	"graphics.hpp"
+	"parentWindow.hpp"
+	"firstWindow.hpp"
+
+1488256928 e:\prog\progbentrol\_3 harmadik_beadando\include\graphics.hpp
+	<string>
+
+1557670593 e:\prog\progbentrol\_3 harmadik_beadando\include\parentwindow.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+
+1555507713 e:\prog\progbentrol\_3 harmadik_beadando\include\widgets.hpp
+	"graphics.hpp"
+
+1558174738 e:\prog\progbentrol\_3 harmadik_beadando\include\firstwindow.hpp
+	"parentWindow.hpp"
+	"widgets.hpp"
+	"numberBox.hpp"
+	"selectBox.hpp"
+	"textWindow.hpp"
+	"messageButton.hpp"
+	"gameMaster.hpp"
+	"textbox.hpp"
+
+1555507713 e:\prog\progbentrol\_3 harmadik_beadando\include\numberbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1555507713 e:\prog\progbentrol\_3 harmadik_beadando\include\selectbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+
+1557670904 e:\prog\progbentrol\_3 harmadik_beadando\include\textwindow.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+	<string>
+	<iostream>
+
+1557472578 source:e:\prog\progbentrol\_3 harmadik_beadando\src\button.cpp
+	"button.hpp"
+	"graphics.hpp"
+
+1558077116 e:\prog\progbentrol\_3 harmadik_beadando\include\button.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1558175739 source:e:\prog\progbentrol\_3 harmadik_beadando\src\firstwindow.cpp
+	"firstWindow.hpp"
+	"graphics.hpp"
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+
+1557059575 source:e:\prog\progbentrol\_3 harmadik_beadando\src\gamemaster.cpp
+	"gameMaster.hpp"
+
+1557059575 e:\prog\progbentrol\_3 harmadik_beadando\include\gamemaster.hpp
+
+1558175290 source:e:\prog\progbentrol\_3 harmadik_beadando\src\messagebutton.cpp
+	"messageButton.hpp"
+	"graphics.hpp"
+
+1558175279 e:\prog\progbentrol\_3 harmadik_beadando\include\messagebutton.hpp
+	"button.hpp"
+	"firstWindow.hpp"
+	<functional>
+
+1555507713 source:e:\prog\progbentrol\_3 harmadik_beadando\src\numberbox.cpp
+	"numberBox.hpp"
+	<string>
+
+1557670427 source:e:\prog\progbentrol\_3 harmadik_beadando\src\parentwindow.cpp
+	"parentWindow.hpp"
+	<fstream>
+
+1555507909 source:e:\prog\progbentrol\_3 harmadik_beadando\src\selectbox.cpp
+	"selectBox.hpp"
+	"graphics.hpp"
+	<vector>
+	<iostream>
+
+1555507909 source:e:\prog\progbentrol\_3 harmadik_beadando\src\textbox.cpp
+	"textbox.hpp"
+	"graphics.hpp"
+	<string>
+
+1555507713 e:\prog\progbentrol\_3 harmadik_beadando\include\textbox.hpp
+	<string>
+	"graphics.hpp"
+	"widgets.hpp"
+
+1557671119 source:e:\prog\progbentrol\_3 harmadik_beadando\src\textwindow.cpp
+	"textWindow.hpp"
+	"graphics.hpp"
+	<iostream>
+	<fstream>
+
+1555500948 source:e:\prog\progbentrol\_3 harmadik_beadando\src\widgets.cpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1558288796 source:c:\users\hipergamer\downloads\_3 harmadik_beadando\main.cpp
+	"graphics.hpp"
+	"parentWindow.hpp"
+	"firstWindow.hpp"
+
+1488256928 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\graphics.hpp
+	<string>
+
+1558286872 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\parentwindow.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+
+1558264226 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\widgets.hpp
+	"graphics.hpp"
+
+1558288390 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\firstwindow.hpp
+	"parentWindow.hpp"
+	"widgets.hpp"
+	"numberBox.hpp"
+	"selectBox.hpp"
+	"textWindow.hpp"
+	"messageButton.hpp"
+	"textbox.hpp"
+	"myLevel.hpp"
+	<iostream>
+
+1558204182 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\numberbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+
+1558204182 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\selectbox.hpp
+	"graphics.hpp"
+	"widgets.hpp"
+	<vector>
+
+1558204182 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\textwindow.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+	<string>
+	<iostream>
+
+1558269203 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\messagebutton.hpp
+	"button.hpp"
+	"firstWindow.hpp"
+	<functional>
+
+1558256927 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\button.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1557063175 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\gamemaster.hpp
+
+1558268914 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\textbox.hpp
+	<string>
+	"graphics.hpp"
+	"widgets.hpp"
+
+1558259563 source:c:\users\hipergamer\downloads\_3 harmadik_beadando\src\button.cpp
+	"button.hpp"
+	"graphics.hpp"
+
+1558289087 source:c:\users\hipergamer\downloads\_3 harmadik_beadando\src\firstwindow.cpp
+	"firstWindow.hpp"
+	"graphics.hpp"
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+
+1557063175 source:c:\users\hipergamer\downloads\_3 harmadik_beadando\src\gamemaster.cpp
+	"gameMaster.hpp"
+
+1558268833 source:c:\users\hipergamer\downloads\_3 harmadik_beadando\src\messagebutton.cpp
+	"messageButton.hpp"
+	"graphics.hpp"
+
+1555511313 source:c:\users\hipergamer\downloads\_3 harmadik_beadando\src\numberbox.cpp
+	"numberBox.hpp"
+	<string>
+
+1558269534 source:c:\users\hipergamer\downloads\_3 harmadik_beadando\src\parentwindow.cpp
+	"parentWindow.hpp"
+	<fstream>
+
+1555511509 source:c:\users\hipergamer\downloads\_3 harmadik_beadando\src\selectbox.cpp
+	"selectBox.hpp"
+	"graphics.hpp"
+	<vector>
+	<iostream>
+
+1555511509 source:c:\users\hipergamer\downloads\_3 harmadik_beadando\src\textbox.cpp
+	"textbox.hpp"
+	"graphics.hpp"
+	<string>
+
+1557674719 source:c:\users\hipergamer\downloads\_3 harmadik_beadando\src\textwindow.cpp
+	"textWindow.hpp"
+	"graphics.hpp"
+	<iostream>
+	<fstream>
+
+1558264226 source:c:\users\hipergamer\downloads\_3 harmadik_beadando\src\widgets.cpp
+	"widgets.hpp"
+	"graphics.hpp"
+
+1558288980 source:c:\users\hipergamer\downloads\_3 harmadik_beadando\src\mylevel.cpp
+	"myLevel.hpp"
+
+1558288863 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\mylevel.hpp
+	"widgets.hpp"
+	"graphics.hpp"
+
