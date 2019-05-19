@@ -65,7 +65,7 @@ firstWindow::firstWindow(int X, int Y) : parentWindow(X,Y)
     vector<string> listb {"Halványzöld", "Pink", "Narancs", "Halványkék"};
     backgroundColor = new selectBox(100,100,150,40,4,lista);
     levelColor = new selectBox(300,100,150,40,4,listb);
-    accept = new functorButton(this,500,100,80,40,"Alkalmaz",[this]() {this->setBgColors();});
+    accept = new functorButton(this,500,100,80,40,"Alkalmaz",[this]() {this->setBgColors();this->setLevelColors();});
 
     optiWidgets.push_back(backgroundColor);
     optiWidgets.push_back(levelColor);
@@ -147,4 +147,28 @@ void firstWindow::setBgColors()
 void firstWindow::writeText()
 {
     cSoon->setText("Coming Soon!");
+}
+
+void firstWindow::setLevelColors()
+{
+    if(levelColor->myInfo()=="Halványzöld")
+    {
+        level->setMyColor(179,255,204);
+
+    }
+    else if(levelColor->myInfo()=="Pink")
+    {
+        level->setMyColor(255,179,217);
+
+    }
+    else if(levelColor->myInfo()=="Narancs")
+    {
+        level->setMyColor(255,153,0);
+
+    }
+    else if(levelColor->myInfo()=="Halványkék")
+    {
+        level->setMyColor(0,191,255);
+
+    }
 }
