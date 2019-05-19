@@ -30,6 +30,7 @@ class firstWindow : public parentWindow
         void writeText();
         virtual ~firstWindow();
         void setBgColors();
+        void setLevelColors();
 
     protected:
         ///Mainmenu

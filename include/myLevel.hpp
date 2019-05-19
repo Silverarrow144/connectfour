@@ -13,12 +13,14 @@ class myLevel : public Widget
         void handle(genv::event ev) override;
         std::string myInfo() override;
         void lostFocus() override;
-        //void setLvlColors();
+        void setMyColor(int r, int g, int b);
     protected:
         int _level[6][7]={};
         int lc_r=0;
         int lc_g=0;
         int lc_b=240;
+        int column=0;
+        int lastZero;
 
     private:
 };
