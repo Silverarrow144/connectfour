@@ -371,7 +371,7 @@
 1558264226 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\widgets.hpp
 	"graphics.hpp"
 
-1558288390 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\firstwindow.hpp
+1558293053 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\firstwindow.hpp
 	"parentWindow.hpp"
 	"widgets.hpp"
 	"numberBox.hpp"
@@ -417,7 +417,7 @@
 	"button.hpp"
 	"graphics.hpp"
 
-1558289087 source:c:\users\hipergamer\downloads\_3 harmadik_beadando\src\firstwindow.cpp
+1558293246 source:c:\users\hipergamer\downloads\_3 harmadik_beadando\src\firstwindow.cpp
 	"firstWindow.hpp"
 	"graphics.hpp"
 	<vector>
@@ -461,10 +461,11 @@
 	"widgets.hpp"
 	"graphics.hpp"
 
-1558288980 source:c:\users\hipergamer\downloads\_3 harmadik_beadando\src\mylevel.cpp
+1558293172 source:c:\users\hipergamer\downloads\_3 harmadik_beadando\src\mylevel.cpp
 	"myLevel.hpp"
+	<iostream>
 
-1558288863 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\mylevel.hpp
+1558292971 c:\users\hipergamer\downloads\_3 harmadik_beadando\include\mylevel.hpp
 	"widgets.hpp"
 	"graphics.hpp"
 
